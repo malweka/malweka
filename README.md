@@ -4,20 +4,28 @@
 
 I'm a seasoned full-stack software engineer and problem solver with expertise in all phases of software development. My passion lies in architecting and building distributed applications hosted in cloud or hybrid environments.
 
-- 🏗️ **Software Architect** with a focus on creating robust, scalable systems
-- 🌐 **Full-stack developer** experienced in designing and implementing microservices and cloud APIs
-- 📊 **Data modeling expert**, proficient with various database systems including Oracle, MSSQL, PostgreSQL, and MySQL
-- ☁️ **Cloud enthusiast**, specializing in Azure services and cloud migration strategies
+- 🏗️ **Software Architect** specializing in **Event-Driven Architecture** and building large-scale **distributed services**
+- 🔐 **Identity Management Expert** with deep proficiency in Azure AD, Okta, Keycloak, and modern standards (OAuth2, OIDC)
+- 🌐 **Full-stack developer** experienced in designing and implementing microservices and API Gateways (Azure APIM)
+- ☁️ **Cloud enthusiast**, focusing on container orchestration with **Kubernetes** and **OpenShift**
 - 🚀 **Advocate** for CI/CD practices and DevOps culture
 
 ## 🛠️ Tech Stack
 
-**Cloud & Architecture**
+**Cloud & Orchestration**
 <br>
 <img src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
+<img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+<img src="https://img.shields.io/badge/openshift-%23EE0000.svg?style=for-the-badge&logo=redhatopenshift&logoColor=white" alt="OpenShift" />
 <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ" />
-<img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+
+**Identity & Security**
+<br>
+<img src="https://img.shields.io/badge/azure%20ad-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure AD" />
+<img src="https://img.shields.io/badge/okta-%23007DC1.svg?style=for-the-badge&logo=okta&logoColor=white" alt="Okta" />
+<img src="https://img.shields.io/badge/keycloak-%23ADD8E6.svg?style=for-the-badge&logo=keycloak&logoColor=white" alt="Keycloak" />
+<img src="https://img.shields.io/badge/OAUTH2-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="OAuth2" />
 
 **Backend**
 <br>
@@ -44,6 +52,7 @@ I'm a seasoned full-stack software engineer and problem solver with expertise in
 <img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />
 <img src="https://img.shields.io/badge/jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
 <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" alt="SonarQube" />
+<img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
 
 ## 🌱 I'm currently interested in...
 
