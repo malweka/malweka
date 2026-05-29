@@ -5,9 +5,9 @@
 I'm a seasoned full-stack software engineer and problem solver with expertise in all phases of software development. My passion lies in architecting and building distributed applications hosted in cloud or hybrid environments.
 
 - 🏗️ **Software Architect** specializing in **Event-Driven Architecture** and building large-scale **distributed services**
-- 🔐 **Identity Management Expert** with deep proficiency in Azure AD, Okta, Keycloak, and modern standards (OAuth2, OIDC)
+- 🔐 **Identity Management Expert** with deep proficiency in Azure AD, Okta, Keycloak, and modern standards (OAuth2, OIDC, SAML2)
 - 🌐 **Full-stack developer** experienced in designing and implementing microservices and API Gateways (Azure APIM)
-- ☁️ **Cloud enthusiast**, focusing on container orchestration with **Kubernetes** and **OpenShift**
+- ☁️ **Cloud enthusiast**, focusing on container orchestration with **Kubernetes**, **OpenShift**, and **Azure Container Apps**
 - 🚀 **Advocate** for CI/CD practices and DevOps culture
 
 ## 🛠️ Tech Stack
